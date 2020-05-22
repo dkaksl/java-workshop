@@ -68,3 +68,17 @@ Note: with Java 11 and higher, it is possible to execute java code without compi
 ```
 java SourceFile.java
 ```
+
+## HelloWorld sample
+
+**HelloWorld.java**
+
+```java
+public class HelloWorld {
+
+   public static void main(String[] args) {
+      System.out.println("Hello World!");
+   }
+
+}
+```

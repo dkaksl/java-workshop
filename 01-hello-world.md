@@ -27,23 +27,23 @@ In this session, we will go through Java setup essentials, and create and run a 
 
 To configure environment variables in Windows 10, open up the start menu and search for "envrironment".
 
-![](01.png)
+![](img/01.png)
 
 In the System Properties dialog, select "Environment Variables...".
 
-![](02.png)
+![](img/02.png)
 
 Create the variables `JAVA_8_HOME` and `JAVA_11_HOME` that point to the downloaded and extracted java packages.
 
-![](03.png)
+![](img/03.png)
 
 Create a variable `JAVA_HOME` that points to `JAVA_8_HOME`.
 
-![](04.png)
+![](img/04.png)
 
 Prepend `%JAVA_HOME%\bin` to the `Path` variable.
 
-![](05.png)
+![](img/05.png)
 
 Now, every time you open a new command prompt, the JDK you have pointed out in your `JAVA_HOME` variable will be available. To change from Java 8 to Java 11, just change the `JAVA_HOME` variable.
 

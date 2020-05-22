@@ -76,6 +76,7 @@ java SourceFile.java
 ```java
 public class HelloWorld {
 
+   // method invoked by the JVM
    public static void main(String[] args) {
       System.out.println("Hello World!");
    }

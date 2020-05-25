@@ -102,3 +102,5 @@ public class HelloWorld {
 - https://howtodoinjava.com/java-version-wise-features-history/
 - https://www.hackerrank.com/domains/java
 - https://en.wikipedia.org/wiki/Javadoc
+- https://en.wikipedia.org/wiki/List_of_Java_keywords
+- https://www.tutorialspoint.com/java/

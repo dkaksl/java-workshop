@@ -81,6 +81,18 @@ public class HelloWorld {
       System.out.println("Hello World!");
    }
 
+   /* this is a
+    multiline comment
+     */
+
+   /**
+    * this is a javadoc comment describing how the method operates
+    * @param something this is a description of the method parameter
+    */
+   private static void printSomething(String something) {
+      System.out.println(something);
+   }
+
 }
 ```
 
@@ -89,3 +101,4 @@ public class HelloWorld {
 - https://en.wikipedia.org/wiki/Java_version_history
 - https://howtodoinjava.com/java-version-wise-features-history/
 - https://www.hackerrank.com/domains/java
+- https://en.wikipedia.org/wiki/Javadoc

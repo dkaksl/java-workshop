@@ -1,0 +1,4 @@
+package scopes;
+
+class PackagePrivateClass {
+}
